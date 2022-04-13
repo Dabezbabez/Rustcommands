@@ -1,0 +1,67 @@
+bind tab inventory.toggle
+bind return chat.open
+bind space +jump
+bind 1 +slot1
+bind 2 +slot2
+bind 3 +slot3
+bind 4 +slot4
+bind 5 +slot5
+bind 6 +slot6
+bind 7 +slot7
+bind 8 +slot8
+bind a +left
+bind b +gestures
+bind c +compass
+bind d +right
+bind e +use
+bind f lighttoggle
+bind g +map
+bind h no_input
+bind j water.quality 0
+bind k water.quality 2
+bind n duck
+bind p +pets
+bind q +hoverloot
+bind r +reload
+bind s +backward
+bind t forward;sprint;jump
+bind v +voice
+bind w +forward
+bind x swapseats
+bind y forward;sprint
+bind keypad1 +notec
+bind keypad2 +noted
+bind keypad3 +notee
+bind keypad4 +notef
+bind keypad5 +noteg
+bind keypad6 +notea
+bind keypad7 +noteb
+bind keypadplus +notesharpmod
+bind keypadenter +noteoctaveupmod
+bind f1 consoletoggle;combatlog
+bind leftshift +sprint
+bind leftcontrol +duck
+bind leftalt +altlook
+bind mouse0 +attack
+bind mouse1 +attack2
+bind mouse2 +attack3
+bind mouse4 /mini
+bind mousewheelup +invprev
+bind mousewheeldown +invnext
+bind [leftshift+1] clear
+bind [leftshift+2] clear
+bind [leftshift+3] clear
+bind [leftshift+4] craft.add -1234735557 1
+bind [mouse3+1] craft.add -2072273936 1
+bind [mouse3+2] craft.add 1540934679 1
+bind [mouse3+3] craft.add 1443579727 1
+bind [mouse3+4] craft.add -1234735557 1
+bind [mouse4+1] craft.add -1754948969 1
+bind [mouse4+2] craft.add -1583967946 1
+bind [mouse4+3] craft.add 171931394 1
+bind [leftalt+1] craft.add 1729120840 1
+bind [leftalt+2] craft.add -850982208 1
+bind [leftalt+3] craft.add -2067472972 1
+bind [z+1] craft.add 1729120840 1
+bind [z+2] craft.add -850982208 1
+bind [leftalt+4] craft.add 1159991980 1
